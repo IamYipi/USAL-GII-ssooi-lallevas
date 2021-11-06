@@ -1,3 +1,5 @@
+//LALLEVAS SISTEMAS OPERATIVOS I
+//JAVIER GARCÍA PECHERO
 #include <signal.h>
 #include <unistd.h>
 #include <string.h>
